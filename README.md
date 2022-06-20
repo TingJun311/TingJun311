@@ -47,7 +47,7 @@
 
 <br/>
 <br/>
-<code><img height="40" width="40" src="https://blog.golang.org/go-brand/Go-Logo/SVG/Go-Logo_Blue.svg"></code>
+<!-- <code><img height="40" width="40" src="https://blog.golang.org/go-brand/Go-Logo/SVG/Go-Logo_Blue.svg"></code> -->
 <code><img height="40" width="40" src="https://cdn4.iconfinder.com/data/icons/logos-3/600/React.js_logo-512.png"></code>
 <code><img height="40" width="40" src="https://cdn.worldvectorlogo.com/logos/tailwindcss.svg"></code>
 <code><img height="40" width="40" src="https://cdn.iconscout.com/icon/free/png-512/saas-457964.png"></code>
