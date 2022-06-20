@@ -81,11 +81,11 @@
   </a>
 </p>
 
-<h3 align="center">⬇ Scroll down to see <a href="https://github.com/smir45?tab=repositories">my repos</a>! ⭐ Stars are appreciated!</h3>
+<h3 align="center">⬇ Scroll down to see <a href="https://github.com/TingJun311?tab=repositories">my repos</a>! ⭐ Stars are appreciated!</h3>
 
 
 
-
+<!-- 
 <br/>
 
 ### ⚙️ &nbsp; GitHub Analytics
@@ -95,18 +95,18 @@
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=smir45&show_icons=true&theme=vue-light&include_all_commits=true&count_private=true" />
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=smir45&layout=compact&exclude_lang=java+r&theme=vue-light" />
 </a>
-</p>
+</p> -->
 
 
 
-<div align="center">
+<!-- <div align="center">
 
 
-<br/>
+<br/> -->
 
 
 
-
+<!-- 
 ### 📅 Isometric commit calendar
 
 The *isocalendar* plugin displays an isometric view of your commits calendar, along with a few additional stats like current streak and commit average per day.
@@ -120,7 +120,7 @@ The *isocalendar* plugin displays an isometric view of your commits calendar, al
     <img width="900" height="1" alt="">
     
   </td>
-</table>
+</table> -->
 
 
 ------
