@@ -71,7 +71,7 @@
 <code><img height="40" width="40" src="https://cdn.iconscout.com/icon/free/png-512/mongodb-3-1175138.png"></code>
 
 <br/>
-
+<!-- 
 #
 ## 🔥 My contribution streak
 
@@ -79,7 +79,7 @@
   <a href="https://github.com/TingJun311/github-readme-streak-stats">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=TingJun311#version3"/>
   </a>
-</p>
+</p> -->
 
 <h3 align="center">⬇ Scroll down to see <a href="https://github.com/TingJun311?tab=repositories">my repos</a>! ⭐ Stars are appreciated!</h3>
 
