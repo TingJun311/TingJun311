@@ -53,6 +53,7 @@
 <code><img height="40" width="40" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_A0HE4LwmoDHHZDK6JyoeGMydojnDjaG_M586fu4KDhILDeyxPPK75uQ7N-QiN-cEr48&usqp=CAU"></code>
 <code><img height="40" width="40" src="https://cdn.iconscout.com/icon/free/png-256/css-131-722685.png"></code>
 <code><img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code><img height="40" width="40" src="[https://cdn.iconscout.com/icon/free/png-512/mongodb-3-1175138.png](https://ejspr.com/app/uploads/2021/03/EJS-Monogram_Grass-Green_High-Res.png)"></code>
 <code><img height="40" width="40" src="https://cdn4.iconfinder.com/data/icons/logos-3/600/React.js_logo-512.png"></code>
 <code><img height="40" width="40" src="https://brandeps.com/logo-download/C/C-Sharp-logo-vector-01.svg"></code>
 <code><img height="40" width="40" src="https://cdn.iconscout.com/icon/free/png-256/css-131-722685.png"></code>
@@ -60,6 +61,7 @@
 <code><img height="40" width="40" src="https://play-lh.googleusercontent.com/PCpXdqvUWfCW1mXhH1Y_98yBpgsWxuTSTofy3NGMo9yBTATDyzVkqU580bfSln50bFU"></code>
 <code><img height="40" width="40" src="https://cdn.worldvectorlogo.com/logos/nodejs-icon.svg"></code>
 <code><img height="40" width="40" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRT1PKsfJXnxOqnTRiIZ8VcdJDYBXD-qZnnpw&usqp=CAU"></code>
+<code><img height="40" width="40" src="https://download.logo.wine/logo/MySQL/MySQL-Logo.wine.png"></code>
 <code><img height="40" width="40" src="https://cdn.iconscout.com/icon/free/png-512/mongodb-3-1175138.png"></code>
 
 <!-- <code><img height="40" width="40" src="https://cdn.worldvectorlogo.com/logos/tailwindcss.svg"></code> -->
