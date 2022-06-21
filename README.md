@@ -16,7 +16,7 @@
   <img align="right" height="250" width="400" alt="GIF" src="https://github.com/JayantGoel001/JayantGoel001/blob/master/GIF/code.gif">
 </a>
 
-- 🔭 I’m currently working on **Web Development**
+- 🔭 I’m currently a **Full-stack Developer**
 - 🌱 I’m currently learning **Web 3 and Blockchain**
 - 👯 I’m looking to collaborate on **Web Development**
 - 🤔 I’m looking for an **Internships**
