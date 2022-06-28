@@ -82,6 +82,10 @@
 <!-- <code><img height="40" width="40" src="https://upload.wikimedia.org/wikipedia/commons/a/ab/Linux_Logo_in_Linux_Libertine_Font.svg"></code> -->
 
 <br/>
+**In Progress**
+<br/>
+<code><img height="40" width="40" src="https://pbs.twimg.com/media/E7_cC-oXIAAXQ32?format=jpg&name=900x900"></code>
+<code><img height="40" width="40" src="https://pbs.twimg.com/profile_images/1284260485806698497/7-bSOXPO.jpg"></code>
 <!-- 
 #
 ## 🔥 My contribution streak
