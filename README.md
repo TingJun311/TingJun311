@@ -16,9 +16,9 @@
   <img align="right" height="250" width="400" alt="GIF" src="https://github.com/JayantGoel001/JayantGoel001/blob/master/GIF/code.gif">
 </a>
 
-- 🔭 I’m currently a **Full-stack Developer**
+- 🔭 I’m currently a **Computer Science Student**
 - 🌱 I’m currently learning **Web 3 and Blockchain**
-- 👯 I’m looking to collaborate on **Web Development**
+- 👯 I’m looking to collaborate on **Web Development (Full-Stack)**
 - 🤔 I’m looking for an **Internships**
 <!-- - 💬 Ask me about Anything [here](https://github.com/smir45/smir45/issues/1)! I am happy to help. -->
 - 😄 Pronouns : **He/Him/His**
