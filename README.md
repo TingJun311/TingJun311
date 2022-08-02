@@ -74,7 +74,11 @@
 <code><img height="40" width="40" src="https://download.logo.wine/logo/MySQL/MySQL-Logo.wine.png"></code>
 <code><img height="40" width="40" src="https://cdn.iconscout.com/icon/free/png-512/mongodb-3-1175138.png"></code> -->
 #
-
+**DATABASE**
+<br/>
+<br/>
+<code><img height="40" width="40" src="https://download.logo.wine/logo/MySQL/MySQL-Logo.wine.png"></code>
+<code><img height="40" width="40" src="https://cdn.iconscout.com/icon/free/png-512/mongodb-3-1175138.png"></code>
 
 <!-- <code><img height="40" width="40" src="https://cdn.worldvectorlogo.com/logos/tailwindcss.svg"></code> -->
 <!-- <code><img height="40" width="40" src="https://cdn.iconscout.com/icon/free/png-512/saas-457964.png"></code> -->
@@ -88,8 +92,9 @@
 <!-- <code><img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png"></code> -->
 <!-- <code><img height="40" width="40" src="https://upload.wikimedia.org/wikipedia/commons/a/ab/Linux_Logo_in_Linux_Libertine_Font.svg"></code> -->
 
+**IN PROGRESS**
+
 <br/>
-**In Progress**
 <br/>
 <code><img height="40" width="40" src="https://pbs.twimg.com/media/E7_cC-oXIAAXQ32?format=jpg&name=900x900"></code>
 <code><img height="40" width="40" src="https://pbs.twimg.com/profile_images/1284260485806698497/7-bSOXPO.jpg"></code>
