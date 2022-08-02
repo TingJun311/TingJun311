@@ -46,7 +46,6 @@
 **LANGUAGES:**  
 
 <br/>
-<br/>
 
 
 <!-- html icon  -->
@@ -59,6 +58,7 @@
 <code><img height="40" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/1200px-PHP-logo.svg.png"></code>
 #
 **FRAMEWORKS OR LIBARY**
+<br/>
 <code><img height="40" width="40" src="https://brandlogos.net/wp-content/uploads/2021/09/bootstrap-logo.png"></code>
 <code><img height="40" width="40" src="https://progsoft.net/images/ejs-icon-bccf3f017751a71ee75c69021ee1020fc0d9067e.jpg"></code>
 <code><img height="40" width="40" src="https://image.pngaaa.com/393/592393-middle.png"></code>      <!-- .Net -->
@@ -66,12 +66,12 @@
 <code><img height="40" width="40" src="https://e7.pngegg.com/pngimages/719/649/png-clipart-laravel-software-framework-web-framework-php-zend-framework-framework-icon-angle-text.png"></code>
 <code><img height="40" width="40" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRT1PKsfJXnxOqnTRiIZ8VcdJDYBXD-qZnnpw&usqp=CAU"></code>
 
-
+<!-- 
 <code><img height="40" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/1024px-Git_icon.svg.png"></code>
 <code><img height="40" width="40" src="https://play-lh.googleusercontent.com/PCpXdqvUWfCW1mXhH1Y_98yBpgsWxuTSTofy3NGMo9yBTATDyzVkqU580bfSln50bFU"></code>
 <code><img height="40" width="40" src="https://www.ictdemy.com/images/5728/nodejs_logo.png"></code>
 <code><img height="40" width="40" src="https://download.logo.wine/logo/MySQL/MySQL-Logo.wine.png"></code>
-<code><img height="40" width="40" src="https://cdn.iconscout.com/icon/free/png-512/mongodb-3-1175138.png"></code>
+<code><img height="40" width="40" src="https://cdn.iconscout.com/icon/free/png-512/mongodb-3-1175138.png"></code> -->
 #
 
 
