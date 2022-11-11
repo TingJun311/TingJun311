@@ -92,6 +92,8 @@
 <a href="#"><img alt="TingJun's Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TingJun311&layout=compact&hide_border=true&langs_count=20&theme=radical&bg_color=0D1117" height="200"/>
 </div>
 
+<br/>
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=willianrod)](https://github.com/TingJun311/github-readme-stats)
 <!-- <a target="_blank"><img align="left" height="300" width="300" alt="GIF" src="https://github.com/JayantGoel001/JayantGoel001/blob/master/GIF/github.gif"></a>
 <br/> -->
 
