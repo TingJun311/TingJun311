@@ -93,6 +93,7 @@
 </div>
 
 <br/>
+  <
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=willianrod)](https://github.com/TingJun311/github-readme-stats)
 <!-- <a target="_blank"><img align="left" height="300" width="300" alt="GIF" src="https://github.com/JayantGoel001/JayantGoel001/blob/master/GIF/github.gif"></a>
 <br/> -->
