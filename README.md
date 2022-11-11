@@ -98,6 +98,9 @@
 <div align="center">
 <a href="#"><img alt="TingJun's Github Stats" src="https://github-readme-stats.vercel.app/api/wakatime?username=IsaacChew" height="200"/>
 </div>
+  <div align="center">
+<a href="#"><img alt="TingJun's Github Stats" src="https://wakatime.com/badge/user/32bb4d1b-ee4e-47bc-86e8-818298a516f3.svg" height="200"/>
+</div>
 <!-- <a target="_blank"><img align="left" height="300" width="300" alt="GIF" src="https://github.com/JayantGoel001/JayantGoel001/blob/master/GIF/github.gif"></a>
 <br/> -->
 
