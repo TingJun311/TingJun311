@@ -89,7 +89,7 @@
 ## Github Stats
 <div align="center">
 <a href="#"><img alt="TingJun's Github Stats" src="https://github-readme-stats.vercel.app/api?username=TingJun311&show_icons=true&theme=radical&count_private=true" height="200"/>
-<a href="#"><img alt="TingJun's Github Stats" src="  https://github-readme-stats.vercel.app/api/top-langs/?username=TingJun311&layout=compact&langs_count=20&theme=radical" height="200"/>
+<a href="#"><img alt="TingJun's Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TingJun311&layout=compact&langs_count=20&theme=radical" height="200"/>
 </div>
 
 <!-- <a target="_blank"><img align="left" height="300" width="300" alt="GIF" src="https://github.com/JayantGoel001/JayantGoel001/blob/master/GIF/github.gif"></a>
