@@ -96,7 +96,7 @@
   <br/>
   <br/>
 <div align="center">
-<a href="#"><img alt="TingJun's Github Stats" src="https://github-readme-stats.vercel.app/api/wakatime?username=TingJun311&theme=radical&bg_color=0D1117" height="200"/>
+<a href="#"><img alt="TingJun's Github Stats" src="https://github-readme-stats.vercel.app/api/wakatime?username=TingJun311" height="200"/>
 </div>
 <!-- <a target="_blank"><img align="left" height="300" width="300" alt="GIF" src="https://github.com/JayantGoel001/JayantGoel001/blob/master/GIF/github.gif"></a>
 <br/> -->
