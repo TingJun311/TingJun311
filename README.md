@@ -87,7 +87,7 @@
 <br/>
 
 ## Github Stats
-<div align="left">
+<div align="left" margin-left="200">
 <a href="#"><img alt="TingJun's Github Stats" src="https://github-readme-stats.vercel.app/api?username=TingJun311&show_icons=true&theme=radical&count_private=true" height="200"/>
 </div>
 <div align="right">
