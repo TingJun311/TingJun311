@@ -89,12 +89,9 @@
 <br/> -->
 
 
-**LANGUAGES:**  
+<!-- **LANGUAGES:**  
 
 <br/>
-
-
-<!-- html icon  -->
 <code><img height="40" width="40" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_A0HE4LwmoDHHZDK6JyoeGMydojnDjaG_M586fu4KDhILDeyxPPK75uQ7N-QiN-cEr48&usqp=CAU"></code>
 <code><img height="40" width="40" src="https://cdn.iconscout.com/icon/free/png-256/css-131-722685.png"></code>
 <code><img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
@@ -108,10 +105,10 @@
 <br/>
 <code><img height="40" width="40" src="https://brandlogos.net/wp-content/uploads/2021/09/bootstrap-logo.png"></code>
 <code><img height="40" width="40" src="https://progsoft.net/images/ejs-icon-bccf3f017751a71ee75c69021ee1020fc0d9067e.jpg"></code>
-<code><img height="40" width="40" src="https://image.pngaaa.com/393/592393-middle.png"></code>      <!-- .Net -->
+<code><img height="40" width="40" src="https://image.pngaaa.com/393/592393-middle.png"></code>     
 <code><img height="40" width="40" src="https://cdn4.iconfinder.com/data/icons/logos-3/600/React.js_logo-512.png"></code>
 <code><img height="40" width="40" src="https://e7.pngegg.com/pngimages/719/649/png-clipart-laravel-software-framework-web-framework-php-zend-framework-framework-icon-angle-text.png"></code>
-<code><img height="40" width="40" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRT1PKsfJXnxOqnTRiIZ8VcdJDYBXD-qZnnpw&usqp=CAU"></code>
+<code><img height="40" width="40" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRT1PKsfJXnxOqnTRiIZ8VcdJDYBXD-qZnnpw&usqp=CAU"></code> -->
 
 <!-- 
 <code><img height="40" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/1024px-Git_icon.svg.png"></code>
@@ -119,11 +116,11 @@
 <code><img height="40" width="40" src="https://www.ictdemy.com/images/5728/nodejs_logo.png"></code>
 <code><img height="40" width="40" src="https://download.logo.wine/logo/MySQL/MySQL-Logo.wine.png"></code>
 <code><img height="40" width="40" src="https://cdn.iconscout.com/icon/free/png-512/mongodb-3-1175138.png"></code> -->
-#
+<!-- #
 **DATABASE**
 <br/>
 <code><img height="40" width="40" src="https://download.logo.wine/logo/MySQL/MySQL-Logo.wine.png"></code>
-<code><img height="40" width="40" src="https://cdn.iconscout.com/icon/free/png-512/mongodb-3-1175138.png"></code>
+<code><img height="40" width="40" src="https://cdn.iconscout.com/icon/free/png-512/mongodb-3-1175138.png"></code> -->
 
 <!-- <code><img height="40" width="40" src="https://cdn.worldvectorlogo.com/logos/tailwindcss.svg"></code> -->
 <!-- <code><img height="40" width="40" src="https://cdn.iconscout.com/icon/free/png-512/saas-457964.png"></code> -->
