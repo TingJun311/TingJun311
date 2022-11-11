@@ -96,8 +96,9 @@
   <br/>
   <br/>
 <div align="center">
-<a href="#"><img alt="TingJun's Github Stats" src="https://github-readme-stats.vercel.app/api/wakatime?username=IsaacChew&theme=radical&bg_color=0D1117" height="200"/>
+<a href="#"><img alt="TingJun's Github Stats" src="https://github-readme-stats.vercel.app/api/wakatime?username=IsaacChew&theme=radical&bg_color=0D1117&hide_border=true" height="200"/>
 </div>
+  <br/>
   <div align="center">
 <a href="https://wakatime.com/@32bb4d1b-ee4e-47bc-86e8-818298a516f3"><img src="https://wakatime.com/badge/user/32bb4d1b-ee4e-47bc-86e8-818298a516f3.svg?style=fflat-square" alt="Total time coded since Nov 12 2022" /></a>
 </div>
