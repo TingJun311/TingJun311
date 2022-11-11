@@ -22,6 +22,9 @@
 <!-- - 💬 Ask me about Anything [here](https://github.com/smir45/smir45/issues/1)! I am happy to help. -->
 - 😄 Pronouns : **He/Him/His**
 <br/>
+<br/>
+<br/>
+<br/>
 <!-- <p align="center">  
   <img src="https://komarev.com/ghpvc/?username=smir45" alt="smir45" />
   <img alt="GitHub followers" src="https://img.shields.io/github/followers/smir45?label=Followers&style=social"> •   
