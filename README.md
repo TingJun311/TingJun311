@@ -94,8 +94,8 @@
 
 <br/>
 <div align="center">
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=willianrod)](https://github.com/TingJun311/github-readme-stats)
-  </div>
+<a href="#"><img alt="TingJun's Github Stats" src="https://github-readme-stats.vercel.app/api/wakatime?username=willianrod" height="200"/>
+</div>
 <!-- <a target="_blank"><img align="left" height="300" width="300" alt="GIF" src="https://github.com/JayantGoel001/JayantGoel001/blob/master/GIF/github.gif"></a>
 <br/> -->
 
