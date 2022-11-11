@@ -83,7 +83,9 @@
 <!-- <img height="40" width="40" src="">
 <img height="40" width="40" src=""> -->
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=TingJun311)](https://github.com/anuraghazra/github-readme-stats)
+<p align="left">
+[![TingJun's GitHub stats](https://github-readme-stats.vercel.app/api?username=TingJun311&count_private=true&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+</p>
 
 <!-- <a target="_blank"><img align="left" height="300" width="300" alt="GIF" src="https://github.com/JayantGoel001/JayantGoel001/blob/master/GIF/github.gif"></a>
 <br/> -->
