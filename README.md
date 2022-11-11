@@ -11,7 +11,6 @@
 </h1>
 
 <br/>
-<br/>
 <a target="_blank">
   <img align="right" height="250" width="400" alt="GIF" src="https://github.com/JayantGoel001/JayantGoel001/blob/master/GIF/code.gif">
 </a>
@@ -22,7 +21,6 @@
 <!-- - 🤔 I’m looking for an **Internships** -->
 <!-- - 💬 Ask me about Anything [here](https://github.com/smir45/smir45/issues/1)! I am happy to help. -->
 - 😄 Pronouns : **He/Him/His**
-<br/>
 <br/>
 <!-- <p align="center">  
   <img src="https://komarev.com/ghpvc/?username=smir45" alt="smir45" />
