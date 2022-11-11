@@ -30,7 +30,7 @@
   <img src="https://img.shields.io/github/stars/smir45?label=Stars" alt="Total Stars">
 </p> -->
 
-**Skills**
+## Skills
 <br/>
 <p align="left">
 <!-- Laravel -->
@@ -83,6 +83,7 @@
 <!-- <img height="40" width="40" src="">
 <img height="40" width="40" src=""> -->
 
+<br>
 ## Github Stats
 [![TingJun's GitHub stats](https://github-readme-stats.vercel.app/api?username=TingJun311&show_icons=true&theme=radical&count_private=true)](https://github.com/TingJun311/github-readme-stats)
 
