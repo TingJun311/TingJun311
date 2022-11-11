@@ -96,7 +96,7 @@
   <br/>
   <br/>
 <div align="center">
-<a href="#"><img alt="TingJun's Github Stats" src="https://github-readme-stats.vercel.app/api/wakatime?username=IsaacChew&theme=radical&bg_color=0D1117&hide_border=true" height="200"/>
+<a href="#"><img alt="TingJun's Github Stats" src="https://github-readme-stats.vercel.app/api/wakatime?username=IsaacChew_2288&theme=radical&bg_color=0D1117&hide_border=true" height="200"/>
 </div>
   <br/>
   <div align="center">
