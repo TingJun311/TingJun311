@@ -16,7 +16,7 @@
 </a>
 
 - 🔭 I’m currently a **Full Stack Developer**
-- 🌱 I’m currently learning **Go and Flutter**
+- 🌱 I’m currently learning **Go and Docker**
 - 👯 I’m looking to collaborate on **Web Development or Cross Platform Projects**
 <!-- - 🤔 I’m looking for an **Internships** -->
 <!-- - 💬 Ask me about Anything [here](https://github.com/smir45/smir45/issues/1)! I am happy to help. -->
@@ -36,6 +36,10 @@
 <p align="left">
 <!-- Go -->
 <img height="40" width="40" src="https://raw.githubusercontent.com/TingJun311/skill-icons/d1c752b99bb25a0e5aa363bae1db2809173ee966/icons/GoLang.svg">
+  
+<!-- Docker -->
+<img height="40" width="40" src="https://raw.githubusercontent.com/TingJun311/skill-icons/d1c752b99bb25a0e5aa363bae1db2809173ee966/icons/Docker.svg">
+  
 <!-- Laravel -->
 <img height="40" width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/d1c752b99bb25a0e5aa363bae1db2809173ee966/icons/Laravel-Dark.svg">
 
