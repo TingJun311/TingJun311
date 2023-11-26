@@ -41,18 +41,18 @@
 <img height="40" width="40" src="https://raw.githubusercontent.com/TingJun311/skill-icons/d1c752b99bb25a0e5aa363bae1db2809173ee966/icons/Docker.svg">
   
 <!-- Laravel -->
-<img height="40" width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/d1c752b99bb25a0e5aa363bae1db2809173ee966/icons/Laravel-Dark.svg">
+<!-- <img height="40" width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/d1c752b99bb25a0e5aa363bae1db2809173ee966/icons/Laravel-Dark.svg"> -->
 
 <!-- Dart -->
-<img height="40" width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/d1c752b99bb25a0e5aa363bae1db2809173ee966/icons/Dart-Dark.svg">
+<!-- <img height="40" width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/d1c752b99bb25a0e5aa363bae1db2809173ee966/icons/Dart-Dark.svg"> -->
 
 <!-- Flutter -->
-<img height="40" width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/d1c752b99bb25a0e5aa363bae1db2809173ee966/icons/Flutter-Dark.svg">
+<!-- <img height="40" width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/d1c752b99bb25a0e5aa363bae1db2809173ee966/icons/Flutter-Dark.svg"> -->
 
 <!-- PHP -->
-<img height="40" width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/d1c752b99bb25a0e5aa363bae1db2809173ee966/icons/PHP-Dark.svg">
+<!-- <img height="40" width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/d1c752b99bb25a0e5aa363bae1db2809173ee966/icons/PHP-Dark.svg"> -->
 
-<!-- JavaScripht -->
+<!-- JavaScript -->
 <img height="40" width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/d1c752b99bb25a0e5aa363bae1db2809173ee966/icons/JavaScript.svg">
 
 <!-- C -->
@@ -62,13 +62,13 @@
 <img height="40" width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/d1c752b99bb25a0e5aa363bae1db2809173ee966/icons/HTML.svg">
 
 <!-- React JS -->
-<img height="40" width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/d1c752b99bb25a0e5aa363bae1db2809173ee966/icons/React-Dark.svg">
+<!-- <img height="40" width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/d1c752b99bb25a0e5aa363bae1db2809173ee966/icons/React-Dark.svg"> -->
 
 <!-- Vim -->
 <img height="40" width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/d1c752b99bb25a0e5aa363bae1db2809173ee966/icons/VIM-Dark.svg">
 
 <!-- DotNet -->
-<img height="40" width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/d1c752b99bb25a0e5aa363bae1db2809173ee966/icons/DotNet.svg">
+<!-- <img height="40" width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/d1c752b99bb25a0e5aa363bae1db2809173ee966/icons/DotNet.svg"> -->
 
 <!-- Git -->
 <img height="40" width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/d1c752b99bb25a0e5aa363bae1db2809173ee966/icons/Git.svg">
@@ -80,7 +80,7 @@
 <img height="40" width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/d1c752b99bb25a0e5aa363bae1db2809173ee966/icons/Heroku.svg">
 
 <!-- MongoDB -->
-<img height="40" width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/d1c752b99bb25a0e5aa363bae1db2809173ee966/icons/MongoDB.svg">
+<!-- <img height="40" width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/d1c752b99bb25a0e5aa363bae1db2809173ee966/icons/MongoDB.svg"> -->
 
 <!-- MySql -->
 <img height="40" width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/d1c752b99bb25a0e5aa363bae1db2809173ee966/icons/MySQL-Dark.svg">
