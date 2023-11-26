@@ -15,7 +15,7 @@
   <img align="right" height="250" width="400" alt="GIF" src="https://github.com/JayantGoel001/JayantGoel001/blob/master/GIF/code.gif">
 </a>
 
-- 🔭 I’m currently a **Full Stack Developer**
+- 🔭 I’m currently a **Backend Developer**
 - 🌱 I’m currently learning **Go and Docker**
 - 👯 I’m looking to collaborate on **Web Development or Cross Platform Projects**
 <!-- - 🤔 I’m looking for an **Internships** -->
