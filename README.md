@@ -16,7 +16,7 @@
 </a>
 
 - 🔭 I’m currently a **Backend Developer**
-- 🌱 I’m currently learning **Go and Docker**
+- 🌱 I’m currently learning **Redis and CI/CD**
 - 👯 I’m looking to collaborate on **Web Development or Cross Platform Projects**
 <!-- - 🤔 I’m looking for an **Internships** -->
 <!-- - 💬 Ask me about Anything [here](https://github.com/smir45/smir45/issues/1)! I am happy to help. -->
@@ -77,7 +77,7 @@
 <img height="40" width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/d1c752b99bb25a0e5aa363bae1db2809173ee966/icons/Github-Dark.svg">
 
 <!-- Heroku -->
-<img height="40" width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/d1c752b99bb25a0e5aa363bae1db2809173ee966/icons/Heroku.svg">
+<!-- <img height="40" width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/d1c752b99bb25a0e5aa363bae1db2809173ee966/icons/Heroku.svg"> -->
 
 <!-- MongoDB -->
 <!-- <img height="40" width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/d1c752b99bb25a0e5aa363bae1db2809173ee966/icons/MongoDB.svg"> -->
