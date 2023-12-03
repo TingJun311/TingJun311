@@ -84,7 +84,7 @@
 
 <!-- MySql -->
 <img height="40" width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/d1c752b99bb25a0e5aa363bae1db2809173ee966/icons/MySQL-Dark.svg">
-<img height="40" width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/d1c752b99bb25a0e5aa363bae1db2809173ee966/icons/NodeJS-Dark.svg">
+<!-- <img height="40" width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/d1c752b99bb25a0e5aa363bae1db2809173ee966/icons/NodeJS-Dark.svg"> -->
 
 </p>
 <!-- <img height="40" width="40" src="">
