@@ -92,6 +92,7 @@
 
 <br/>
 
+<!--
 ## Github Stats
 <div align="center" margin-left="200">
 <a href="#"><img alt="TingJun's Github Stats" src="https://github-readme-stats.vercel.app/api?username=TingJun311&show_icons=true&hide_border=true&theme=radical&count_private=true&bg_color=0D1117" height="200"/>
@@ -218,7 +219,7 @@ The *isocalendar* plugin displays an isometric view of your commits calendar, al
 ------
 Credits: [TingJun311](https://github.com/TingJun311)
 
-Last edited on: 11/11/2022
+Last edited on: 11/03/2024
 
 
 
