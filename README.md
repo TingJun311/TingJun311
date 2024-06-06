@@ -35,10 +35,10 @@
 <br/>
 <p align="left">
 <!-- Go -->
-<img height="40" width="40" src="https://raw.githubusercontent.com/TingJun311/skill-icons/d1c752b99bb25a0e5aa363bae1db2809173ee966/icons/GoLang.svg">
+<!-- <img height="40" width="40" src="https://raw.githubusercontent.com/TingJun311/skill-icons/d1c752b99bb25a0e5aa363bae1db2809173ee966/icons/GoLang.svg">
   
 <!-- Docker -->
-<img height="40" width="40" src="https://raw.githubusercontent.com/TingJun311/skill-icons/d1c752b99bb25a0e5aa363bae1db2809173ee966/icons/Docker.svg">
+<!-- <img height="40" width="40" src="https://raw.githubusercontent.com/TingJun311/skill-icons/d1c752b99bb25a0e5aa363bae1db2809173ee966/icons/Docker.svg">
   
 <!-- Laravel -->
 <!-- <img height="40" width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/d1c752b99bb25a0e5aa363bae1db2809173ee966/icons/Laravel-Dark.svg"> -->
@@ -53,28 +53,28 @@
 <!-- <img height="40" width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/d1c752b99bb25a0e5aa363bae1db2809173ee966/icons/PHP-Dark.svg"> -->
 
 <!-- JavaScript -->
-<img height="40" width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/d1c752b99bb25a0e5aa363bae1db2809173ee966/icons/JavaScript.svg">
+<!-- <img height="40" width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/d1c752b99bb25a0e5aa363bae1db2809173ee966/icons/JavaScript.svg">
 
 <!-- C -->
-<img height="40" width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/d1c752b99bb25a0e5aa363bae1db2809173ee966/icons/C.svg">
+<!-- <img height="40" width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/d1c752b99bb25a0e5aa363bae1db2809173ee966/icons/C.svg">
 
 <!-- HTML -->
 <!-- <img height="40" width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/d1c752b99bb25a0e5aa363bae1db2809173ee966/icons/HTML.svg"> -->
 
 <!-- React JS -->
-<img height="40" width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/d1c752b99bb25a0e5aa363bae1db2809173ee966/icons/React-Dark.svg">
+<!-- <img height="40" width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/d1c752b99bb25a0e5aa363bae1db2809173ee966/icons/React-Dark.svg">
 
 <!-- Vim -->
-<img height="40" width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/d1c752b99bb25a0e5aa363bae1db2809173ee966/icons/VIM-Dark.svg">
+<!-- <img height="40" width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/d1c752b99bb25a0e5aa363bae1db2809173ee966/icons/VIM-Dark.svg">
 
 <!-- DotNet -->
 <!-- <img height="40" width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/d1c752b99bb25a0e5aa363bae1db2809173ee966/icons/DotNet.svg"> -->
 
 <!-- Git -->
-<img height="40" width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/d1c752b99bb25a0e5aa363bae1db2809173ee966/icons/Git.svg">
+<!-- <img height="40" width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/d1c752b99bb25a0e5aa363bae1db2809173ee966/icons/Git.svg">
 
 <!-- Github -->
-<img height="40" width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/d1c752b99bb25a0e5aa363bae1db2809173ee966/icons/Github-Dark.svg">
+<!-- <img height="40" width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/d1c752b99bb25a0e5aa363bae1db2809173ee966/icons/Github-Dark.svg">
 
 <!-- Heroku -->
 <!-- <img height="40" width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/d1c752b99bb25a0e5aa363bae1db2809173ee966/icons/Heroku.svg"> -->
@@ -83,10 +83,10 @@
 <!-- <img height="40" width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/d1c752b99bb25a0e5aa363bae1db2809173ee966/icons/MongoDB.svg"> -->
 
 <!-- MySql -->
-<img height="40" width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/d1c752b99bb25a0e5aa363bae1db2809173ee966/icons/MySQL-Dark.svg">
+<!-- <img height="40" width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/d1c752b99bb25a0e5aa363bae1db2809173ee966/icons/MySQL-Dark.svg">
 <!-- <img height="40" width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/d1c752b99bb25a0e5aa363bae1db2809173ee966/icons/NodeJS-Dark.svg"> -->
 
-<img src="https://skillicons.dev/icons?i=nextjs,redis,tailwind,linux&theme=dark">
+<img src="https://skillicons.dev/icons?i=nextjs,redis,tailwind,linux,mysql,go,react,docker,vim,git,github&theme=dark">
 </p>
 <!-- <img height="40" width="40" src="">
 <img height="40" width="40" src=""> -->
