@@ -16,7 +16,7 @@
 </a>
 
 - 🔭 I’m currently a **Backend Developer**
-- 🌱 I’m currently learning **Redis and CI/CD**
+- 🌱 I’m currently learning **DevOps**
 - 👯 I’m looking to collaborate on **Web Development or Cross Platform Projects**
 <!-- - 🤔 I’m looking for an **Internships** -->
 <!-- - 💬 Ask me about Anything [here](https://github.com/smir45/smir45/issues/1)! I am happy to help. -->
@@ -220,7 +220,7 @@ The *isocalendar* plugin displays an isometric view of your commits calendar, al
 ------
 Credits: [TingJun311](https://github.com/TingJun311)
 
-Last edited on: 11/03/2024
+Last edited on: 06/06/2024
 
 
 
