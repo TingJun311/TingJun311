@@ -16,7 +16,7 @@
 </a>
 
 - 🔭 I’m currently a **Backend Engineer**
-- 🌱 I’m currently learning **DevOps**
+- 🌱 I’m currently learning **Infra** and **Disturbuted Systems**
 - 👯 I’m looking to collaborate on **Web Development or Cross Platform Projects**
 <!-- - 🤔 I’m looking for an **Internships** -->
 <!-- - 💬 Ask me about Anything [here](https://github.com/smir45/smir45/issues/1)! I am happy to help. -->
