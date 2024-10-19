@@ -215,8 +215,6 @@ The *isocalendar* plugin displays an isometric view of your commits calendar, al
     
   </td>
 </table> -->
-<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="large" data-theme="dark" data-type="HORIZONTAL" data-vanity="chew-tingjun-871092222" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://my.linkedin.com/in/chew-tingjun-871092222?trk=profile-badge">Chew TingJun</a></div>
-<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
 
 ------
 Credits: [TingJun311](https://github.com/TingJun311)
