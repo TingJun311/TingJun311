@@ -22,6 +22,9 @@
 <!-- - 💬 Ask me about Anything [here](https://github.com/smir45/smir45/issues/1)! I am happy to help. -->
 - 😄 Pronouns : **He/Him/His**
 <br/>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat&logo=linkedin&logoColor=white)](https://my.linkedin.com/in/chew-tingjun-871092222)
+
 <br/>
 <br/>
 <br/>
@@ -30,8 +33,6 @@
   <img alt="GitHub followers" src="https://img.shields.io/github/followers/smir45?label=Followers&style=social"> •   
   <img src="https://img.shields.io/github/stars/smir45?label=Stars" alt="Total Stars">
 </p> -->
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat&logo=linkedin&logoColor=white)](https://my.linkedin.com/in/chew-tingjun-871092222)
 
 ## Skills
 <br/>
