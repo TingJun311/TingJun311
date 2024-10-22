@@ -31,6 +31,8 @@
   <img src="https://img.shields.io/github/stars/smir45?label=Stars" alt="Total Stars">
 </p> -->
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat&logo=linkedin&logoColor=white)](https://my.linkedin.com/in/chew-tingjun-871092222)
+
 ## Skills
 <br/>
 <p align="left">
